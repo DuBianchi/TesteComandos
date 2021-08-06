@@ -1,0 +1,16 @@
+COMANDOS DO GIT
+-----------------
+
+git clone +url // clonar um repositorio do github
+git init // inicia um repositorio local (tem que ser dentro da pasta)
+git status // ver os arquivos modificados 
+git add + nome do arquivo ou ponto para todos // adiciona um arquivo para commit
+git commit -m "mensagem" // efetiva as alterações
+git log --oneline // resume o log em uma linha por ação
+git remote // listar os repositorios online 
+git push repositorio branch // comando para enviar uma branch local para um repositorio remoto
+
+OBSERVAÇÕES
+-----------------
+branch // ramificações do codigo principal (produção)
+origin // um apelido pra url do repositorio que eu quero upar o codigo
