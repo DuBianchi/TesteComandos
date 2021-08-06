@@ -9,6 +9,7 @@ git commit -m "mensagem" // efetiva as alterações
 git log --oneline // resume o log em uma linha por ação
 git remote // listar os repositorios online 
 git push repositorio branch // comando para enviar uma branch local para um repositorio remoto
+git pull // baixa os arquivos do github
 
 OBSERVAÇÕES
 -----------------
